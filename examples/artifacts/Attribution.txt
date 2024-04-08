@@ -1,0 +1,16 @@
+Files obtained from https://pixabay.com:
+
+  - a6-102820.mp3
+  - dramatic-guitar-82852.mp3
+  - f6-102819.mp3
+  - mi-80239.mp3
+  - one-note-electric-guitar-90716.mp3
+  - piano-g-6200.mp3
+  - re-78500.mp3
+  - rolling-the-a-69756.mp3
+  - scale-c6-106131.mp3
+  - scale-g6-89174.mp3
+
+They were converted to wav using sox.
+
+
