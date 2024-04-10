@@ -5,7 +5,7 @@
 This is a very simple node.js readable stream that mixes audio from other readable streams.
 
 
-## Usage
+## Sample Usage
 ```
 const AudioMixer = require('audio-mixer-stream')
 const { ToneStream, utils } = require('tone-stream')
@@ -28,5 +28,8 @@ const mixer = new AudioMixer(format, [ts1, ts2]);
 const s = new Speaker(format)
 mixer.pipe(s)
 ```
+## More examples
+
+See [here](https://github.com/MayamaTakeshi/audio-mixer-stream/tree/main/examples).
 
 
